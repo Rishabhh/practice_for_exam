@@ -43,7 +43,7 @@ def main():
     else:
         while True:
             ops = random.randint(1, 9)
-            f[ops]()
+            f[ops-1]()
 
 def squares():
 
