@@ -73,7 +73,7 @@ def fraction():
     cal = 1/num
     print("Value of 1/{} is ".format(num))
     input()
-    print("{:.3f}".format(cal))
+    print(str(cal)[0:6])
 
 def percentage():
 
@@ -81,7 +81,7 @@ def percentage():
     cal = 1 / num
     print("Percentage of 1/{} is ".format(num))
     input()
-    print("{:.3f}%".format(cal*100))
+    print(str(cal*100)[0:6])
 
 def add2digit():
     num1 = random.randint(11, 99)
