@@ -16,5 +16,5 @@ Extract the zip to a suitable directory
 Enter and folder and double click on file that says  "practice_calculation.py" and voila! : Go Practice .
 
 
-![Demo For Script_Running]("./images/Screenshot (25).png")
-![Demo For Script_Running]("./images/Screenshot (26).png")
+![Demo For Script_Running](./images/demo_s1.png)
+![Demo For Script_Running](./images/demo_s2.png)
